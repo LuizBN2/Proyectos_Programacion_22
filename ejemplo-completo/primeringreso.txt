@@ -1,0 +1,8 @@
+[
+{"nombre":"Televisor", "descripcion":"Samsung 48", "precio":2000000, "stock":10},
+{"nombre":"Televisor", "descripcion":"LG 32", "precio":1000000, "stock":15},
+{"nombre":"Lavadora", "descripcion":"Haceb 40L", "precio":2000000, "stock":5},
+{"nombre":"Nevera", "descripcion":"Samsung 2", "precio":2500000, "stock":10},
+{"nombre":"Nevera", "descripcion":"Haceb 50", "precio":3000000, "stock":20},
+{"nombre":"Lavadora", "descripcion":"LG X22", "precio":2100000, "stock":7}
+  ]
